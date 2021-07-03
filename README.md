@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CyrusDeanxc
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning Front End Development
+- 🌱 I’m currently learning Front Web Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
